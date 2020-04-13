@@ -6,3 +6,4 @@ scalaVersion := "2.13.1"
 
 // https://mvnrepository.com/artifact/org.scala-lang/scala-reflect
 libraryDependencies += "org.scala-lang" % "scala-reflect" % "2.13.1"
+libraryDependencies += "org.scala-lang" % "scala-compiler" % "2.13.1"
